@@ -1,5 +1,8 @@
 # Airbnb_Report
 
+<iframe src="https://public.tableau.com/app/profile/harsha.buddana/viz/NewYorkCityAirbnb_17031667816860/Final_Dashboard?publish=yes" width="800" height="600"></iframe>
+
+
 ![Screenshot (4)](https://github.com/hbuddana/Airbnb_Report/assets/65592890/6ee38345-262a-4e84-9b27-097865749989)
 
 # Data Visualization and Managerial Insights
