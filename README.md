@@ -1,6 +1,6 @@
 # Airbnb_Report
 
-#[Dashboard](https://public.tableau.com/app/profile/harsha.buddana/viz/NewYorkCityAirbnb_17031667816860/Final_Dashboard?publish=yes)
+# [Dashboard](https://public.tableau.com/app/profile/harsha.buddana/viz/NewYorkCityAirbnb_17031667816860/Final_Dashboard?publish=yes)
 
 ![Screenshot (4)](https://github.com/hbuddana/Airbnb_Report/assets/65592890/6ee38345-262a-4e84-9b27-097865749989)
 
